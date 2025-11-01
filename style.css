@@ -81,6 +81,7 @@ body{
     justify-content: center;
     animation: scaleIn 1s infinite ease-in-out;
     box-shadow: 3px 5px 2px;
+    margin-right: 10px;
 }
 
 @keyframes scaleIn{
