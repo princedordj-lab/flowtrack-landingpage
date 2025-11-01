@@ -259,7 +259,7 @@ body{
     margin: auto;
     margin-top: 50px;
     border-radius: 10px;
-    box-shadow: 3px 2px 4px ;
+    box-shadow: 3px 2px 4px #9f2bc5;
 }
 
 .cta-cont a{
